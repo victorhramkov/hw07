@@ -1,0 +1,9 @@
+.flex-row__items {
+   margin: 0 30px 0 0;
+   position: relative;
+}
+.flex-row__items {
+   &:nth-child(3n + 3) {
+      margin-right: 0;
+   }
+}

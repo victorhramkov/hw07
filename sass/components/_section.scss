@@ -1,0 +1,9 @@
+.section-padding {
+   padding: 94px 0 94px 0;
+}
+.section:nth-child(3n) {
+   padding: 0 0 94px 0;
+}
+.section:nth-child(4n) {
+   background-color: #f5f4fa;
+}
